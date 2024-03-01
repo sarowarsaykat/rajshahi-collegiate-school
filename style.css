@@ -1,0 +1,279 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main-container{
+    width: 1140px;
+    min-height: 1980px;
+    padding: 20px;
+    position: relative;
+    box-shadow: 0px -2px 8px black;
+}
+.header{
+    height: 45px;
+    background-color: #006A4E;
+    color: white;
+    font-size: 20px;
+    line-height: 45px;
+    padding: 0px 20px;
+}
+.content-inline{
+    display: inline;
+}
+.content-float-left{
+    float: left;
+}
+.content-float-right{
+    float: right;
+}
+.text-left-align{
+    text-align: left;
+}
+.text-center-align{
+    text-align:center;
+}
+.text-right-align{
+    text-align: right;
+}
+.banner{
+    height: 180px;
+}
+.menu{
+    height: 45px;
+    background-color: #006A4E;
+    line-height: 45px;
+    color: white;
+    
+}
+.menu ul{
+    list-style:none;
+}
+.menu ul li{
+    display: inline-block;
+    padding: 0px 15px;
+
+}
+.menu ul li a:link{
+    text-decoration: none;
+    color: white;
+}
+.menu ul li a:hover{
+    color: yellow;
+}
+.menu ul li:hover{
+    border-bottom: 2px solid red;
+}
+.notice-board{
+    width: 100%;
+    height: 45px;
+    margin-top: 10px;
+}
+.notice-board-head{
+    height: 45px;
+    width: 150px;
+    background-color: #006A4E;
+    line-height: 45px;
+    color: white;
+    float: left;
+}
+.notice-board-body{
+    height: 45px;
+    width: 990px;
+    float: right;
+    line-height: 45px;
+    background-color:aliceblue;
+}
+.left-container{
+    float: left;
+    width: 286px;
+    margin-top: 20px;
+}
+.bongobondhu-corner{
+    width: 253px;
+    min-height:390px;
+    border: 2px solid #006A4E;
+}
+.bongobondhu-corner-title{
+    height: 40px;
+    background-color: #006A4E;
+    color: white;
+    line-height: 40px;
+}
+.bongobondhu-corner-image{
+    margin-top: 15px;
+}
+.bongobondhu-corner-name{
+    margin-top: 8px;
+    font-weight: bold;
+}
+.bongobondhu-corner-detail{
+    margin-top: 12px;
+}
+.bongobondhu-corner-detail a:link{
+    text-decoration: none;
+}
+.subarnajayanti-corner{
+    width: 253px;
+    min-height:290px;
+    border: 2px solid #006A4E;
+    margin-top: 15px;
+}
+.subarnajayanti-corner-title{
+    height: 40px;
+    background-color: #006A4E;
+    color: white;
+    line-height:40px;
+}
+.subarnajayanti-corner-image{
+    margin-top: 20px;
+}
+.subarnajayanti-corner-name{
+    margin-top:20px;
+    font-weight: bold;
+}
+.subarnajayanti-corner-detail{
+    margin-top: 12px;
+}
+.subarnajayanti-corner-detail a:link{
+    text-decoration: none;
+}
+.teacher-corner{
+    width: 253px;
+    height: 370px;
+    border: 2px solid #006A4E;
+    margin-top: 15px;
+}
+.teacher-corner-title{
+    height: 40px;
+    background-color: #006A4E;
+    color: white;
+    line-height: 40px;
+}
+.teacher-corner-image{
+    margin-top: 15px;
+}
+.teacher-corner-name{
+    margin-top: 13px;
+    font-weight: bold;
+}
+.teacher-corner-detail{
+    margin-top: 15px;
+}
+.teacher-corner-detail a:link{
+    text-decoration: none;
+}
+.notice-board2{
+    width: 253px;
+    height: 450px;
+    border: 2px solid #006A4E;
+    margin-top: 15px;
+}
+.notice-board-title{
+    height: 40px;
+    background-color: #006A4E;
+    color: white;
+    line-height: 40px;
+}
+.notice-board-notice{
+    margin-top: 15px;
+    text-align: justify;
+    
+}
+.notice-board-notice ul li{
+    margin-top: 30px;
+    list-style: none;
+    
+}
+.notice-board-notice ul li a:link{
+    text-decoration: none;
+  
+}
+.right-container{
+    width: 850px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.photo-gallery{
+    width:820px ;
+    height:320px ;
+    border: 2px solid #006A4E;
+    
+}
+.collegiate-school{
+    width:820px ;
+    height:220px ;
+    border: 2px solid #006A4E;
+    margin-top: 15px;
+}
+.collegiate-school-title{
+    height: 40px;
+    line-height: 40px;
+    font-weight: bold;
+    background-color: #006A4E;
+    color: white;
+    
+}
+.collegiate-school-body{
+    color: black;
+    font-size: medium;
+    margin-top: 10px;
+    font-style: normal;
+    word-spacing: 5px;
+    text-align: justify;
+    padding: 8px;
+    
+}
+.main-map{
+    width:820px ;
+    height:380px ;
+    border: 2px solid #006A4E;
+    margin-top: 15px;
+}
+.main-map-title{
+    height: 40px;
+    background-color: #006A4E;
+    color: white;
+    line-height: 40px;
+
+}
+.bottom-container{
+    width: 1140px;
+    min-height:300px;
+    display: inline-block;
+   
+}
+.bottom-bur{
+    width: 1140px;
+    height: 214px;
+    background-color: #006A4E;
+    margin-top: 15px;
+}
+
+.main-contact{
+    color: white;
+    font-weight:20px;
+    float: left;
+    margin-top:50px;
+    margin-left: 20px;
+
+}
+.bottom-bur-bottom{
+    width: 1140px;
+    height: 54px;
+    background-color:black;
+}
+.bottom-bur-bottom-copyright{
+    color: white;
+    float: left;
+    line-height: 55px;
+    font-weight: bold;
+    margin: 0px 15px;
+}
+.bottom-bur-bottom-right{
+    color: white;
+    float: right;
+    line-height: 55px;
+    font-weight: bold;
+    margin: 0px 15px;
+
+}
